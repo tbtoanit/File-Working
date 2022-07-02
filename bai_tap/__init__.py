@@ -19,3 +19,5 @@ for i in range(0, len(data1)):
     final_list.append(t) #add dữ liệu vào trong final_list
 
 print(final_list)
+
+# hoa comment
