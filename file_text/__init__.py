@@ -25,6 +25,7 @@ f = open(file='my_text_file.txt', encoding='UTF-8', mode='r')
 # ls1 = f.readlines(20)  # trả về dòng kể từ vị trí con trỏ
 # print(ls1)
 f.close()
+# this nhan is comment
 
 
 
