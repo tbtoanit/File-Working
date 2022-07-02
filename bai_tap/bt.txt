@@ -13,3 +13,5 @@ SO_LUONG_HOC_VIEN:4
 MA_LOP_HOC:004
 TEN_LOP_HOC:NET CORE
 SO_LUONG_HOC_VIEN:9
+
+#I try to modify then push this code into the server
