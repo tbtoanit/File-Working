@@ -10,3 +10,5 @@ for i in range(1,6): #nghiên cứu nên lặp tới n = ?
 my_sheet1['E10'].value = 'LOP HOC PYTHON'
 f.save('excel_file.xlsx')
 f.close()
+
+#The new code
